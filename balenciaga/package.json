@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "json-server --watch ./public/db.json &",  // add the '&' to run it in the background
+    "start": "json-server --watch ./public/db.json &",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
