@@ -5,7 +5,9 @@
   "main": "index.js",
   "scripts": {
     "start": "json-server --watch ./public/db.json",
-    "dev": "json-server --watch ./public/db.json",  // added dev script
+    
+ //   "dev": "json-server --watch ./public/db.json", 
+    // added dev script
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
