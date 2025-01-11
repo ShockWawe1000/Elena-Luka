@@ -2,7 +2,7 @@
   "products": [
     {
       "id": "j1",
-      "name": "Men's Pull-over Jacket in Blue",
+      "name": " Pull-over Jacket in Blue",
       "price": 2050,
       "images": 8,
       "available": [
@@ -15,7 +15,7 @@
           "inStock": 3
         }
       ],
-      "longDescription": "Pull-Over Jacket in blue Japanese denim is from the look 52 of the Balenciaga's Winter 22 Collection, 360° Show.",
+      "longDescription": "Pull-Over Jacket in blue Japanese denim is from the look 52 of the Elena Luka's Winter 22 Collection, 360° Show.",
       "shortDescription": [
         "Blue Japanese denim",
         "This item is unisex",
@@ -24,7 +24,7 @@
         "2 slash pockets at front",
         "Buttoned cuffs",
         "Adjustable buttoning at waist",
-        "Balenciaga engraved flex buttons",
+        "Elena Luka engraved flex buttons",
         "Made in Japan",
         "Dry cleaning",
         "Model is 189 cm / 6'2'' and is wearing a size 4"
@@ -34,7 +34,7 @@
     },
     {
       "id": "j2",
-      "name": "Balenciaga / Adidas Puffer Jacket in Black",
+      "name": "White Swan Wedding Dress",
       "price": 3450,
       "images": 8,
       "available": [
@@ -51,7 +51,7 @@
         "Concealed zipped closure with snaps",
         "2 slash pockets",
         "Drawstring at the bottom",
-        "adidas Trefoil and Balenciaga logos printed at chest",
+        "adidas Trefoil and Elena Luka logos printed at chest",
         "Contrasting 3-Stripes mark on shoulders and sleeves",
         "adidas® collaboration",
         "The Trefoil logo, the 3-Bars logo and the 3-Stripes mark are registered trademarks of adidas",
@@ -60,7 +60,7 @@
         "The model is wearing a size 46"
       ],
       "material": "100% polyamide",
-      "sustainability": "Details: This product contains 70% polyamide sourced from recycled existing objects. It therefore reduces waste and energy consumption during production phase, emits less CO2 and impacts biodiversity less. Our approach: We are committed to the sustainable and ethical management of our operations. The goal of reducing our environmental impact influences our decisions. At all levels and in all locales—whether at offices and stores or along the supply chain—we respect high standards for social and ecological responsibility. Balenciaga is also fur- and exotic leather-free. Carbon footprint: we work to continually reduce the environmental footprint of our products. The remaining carbon emissions associated with all activities in this product's life cycle are carefully calculated, and we commit to invest funds into carbon removal projects that protect and restore natural ecosystems to tackle climate change."
+      "sustainability": "Details: This product contains 70% polyamide sourced from recycled existing objects. It therefore reduces waste and energy consumption during production phase, emits less CO2 and impacts biodiversity less. Our approach: We are committed to the sustainable and ethical management of our operations. The goal of reducing our environmental impact influences our decisions. At all levels and in all locales—whether at offices and stores or along the supply chain—we respect high standards for social and ecological responsibility. Elena Luka is also fur- and exotic leather-free. Carbon footprint: we work to continually reduce the environmental footprint of our products. The remaining carbon emissions associated with all activities in this product's life cycle are carefully calculated, and we commit to invest funds into carbon removal projects that protect and restore natural ecosystems to tackle climate change."
     },
     {
       "id": "j3",
@@ -77,7 +77,7 @@
           "inStock": 1
         }
       ],
-      "longDescription": "3B Sports Icon Pull-Over Tracksuit Jacket in black nylon is from the look 41 of the Balenciaga's Winter 22 Collection, 360° Show.",
+      "longDescription": "3B Sports Icon Pull-Over Tracksuit Jacket in black nylon is from the look 41 of the Elena Luka's Winter 22 Collection, 360° Show.",
       "shortDescription": [
         "Nylon",
         "This item is unisex",
@@ -96,7 +96,7 @@
     },
     {
       "id": "j4",
-      "name": "MEN'S 3B SPORTS ICON TRACKSUIT JACKET IN BLACK",
+      "name": " 3B SPORTS ICON TRACKSUIT JACKET IN BLACK",
       "price": 1550,
       "images": 5,
       "available": [
@@ -109,7 +109,7 @@
           "inStock": 4
         }
       ],
-      "longDescription": "3B Sports Icon Tracksuit Jacket in black medium fleece is from the look 40 of the Balenciaga’s Summer 22, Red Carpet Collection.",
+      "longDescription": "3B Sports Icon Tracksuit Jacket in black medium fleece is from the look 40 of the Elena Luka’s Summer 22, Red Carpet Collection.",
       "shortDescription": [
         "Medium fleece",
         "Unifit",
@@ -143,7 +143,7 @@
           "inStock": 3
         }
       ],
-      "longDescription": "Sporty B Pull-Over Puffer in black dry light nylon is from the look 58 of the Balenciaga’s Winter 22 Collection, 360° Show.",
+      "longDescription": "Sporty B Pull-Over Puffer in black dry light nylon is from the look 58 of the Elena Luka’s Winter 22 Collection, 360° Show.",
       "shortDescription": [
         "Dry light nylon",
         "Oversize fit",
@@ -186,7 +186,7 @@
     },
     {
       "id": "s2",
-      "name": "MEN'S BB PARIS ICON T-SHIRT MEDIUM FIT IN BLACK",
+      "name": " BB PARIS ICON T-SHIRT MEDIUM FIT IN BLACK",
       "price": 645,
       "images": 5,
       "available": [
@@ -217,7 +217,7 @@
     },
     {
       "id": "s3",
-      "name": "MEN'S CITIES NEW YORK T-SHIRT MEDIUM FIT IN BLACK",
+      "name": " Couture Dress Avalanche",
       "price": 690,
       "images": 4,
       "available": [
@@ -230,7 +230,7 @@
           "inStock": 1
         }
       ],
-      "longDescription": "Cities New York T-Shirt Medium Fit in black and white vintage jersey",
+      "longDescription": "Couture Dress Avalanche and white vintage jersey",
       "shortDescription": [
         "Vintage jersey",
         "This item is unisex",
@@ -247,7 +247,7 @@
     },
     {
       "id": "p1",
-      "name": "MEN'S BALENCIAGA / ADIDAS TAILORED PANTS IN BLACK",
+      "name": "Couture Dress Marija",
       "price": 1590,
       "images": 6,
       "available": [
@@ -256,7 +256,7 @@
           "inStock": 2
         }
       ],
-      "longDescription": "adidas Tailored Pants in black technical tailoring twill are done in collaboration with adidas. These pants are from the look 42 of the Balenciaga's Spring 23 Collection, NYC Show.",
+      "longDescription": " Couture Dress Marija done in collaboration with Marija Abramovic. These pants are from the look 42 of the Elena Luka's Spring 23 Collection, NYC Show.",
       "shortDescription": [
         "Technical tailoring twill",
         "Regular fit",
@@ -264,7 +264,7 @@
         "6 belt loops",
         "Covered zip fly",
         "1 buttoned piped pocket at back",
-        "adidas Trefoil and Balenciaga logos embroidered at front",
+        "adidas Trefoil and Elena Luka logos embroidered at front",
         "Contrasting 3-Stripes mark on sides",
         "adidas® collaboration",
         "The Trefoil logo, the 3-Bars logo and the 3-Stripes mark are registered trademarks of adidas",
@@ -322,7 +322,7 @@
           "inStock": 4
         }
       ],
-      "longDescription": "Kick Cargo Pants in black workwear cotton drill are from the look 66 of the Balenciaga’s Winter 22 Collection, 360° Show.",
+      "longDescription": "Kick Cargo Pants in black workwear cotton drill are from the look 66 of the Elena Luka’s Winter 22 Collection, 360° Show.",
       "shortDescription": [
         "Workwear cotton drill",
         "This item is unisex",
@@ -343,7 +343,7 @@
     },
     {
       "id": "p4",
-      "name": "SKATER JEANS IN BLACK",
+      "name": "Dress Wedding La Crimosa",
       "price": 1150,
       "images": 5,
       "available": [
@@ -356,7 +356,7 @@
           "inStock": 1
         }
       ],
-      "longDescription": "Skater Jeans in black Japanese denim is from the look 6 of the Balenciaga’s Fall 22, The Lost Tape Collection.",
+      "longDescription": "Dress Wedding La Crimos is from the look 6 of the Elena Luka Fall 22, The Lost Tape Collection.",
       "shortDescription": [
         "Japanese denim",
         "Unifit",
@@ -366,7 +366,7 @@
         "5 pockets",
         "5 large belt loops",
         "2 belt tabs on sides to adjust waistline",
-        "Balenciaga engraved flex buttons",
+        "Elena Luka engraved flex buttons",
         "Destroyed finishings at bottom",
         "Made in Italy",
         "Dry cleaning",
@@ -377,7 +377,7 @@
     },
     {
       "id": "p5",
-      "name": "MEN'S POLITICAL CAMPAIGN SWEAT SHORTS IN BLACK",
+      "name": " Couture Dress",
       "price": 795,
       "images": 2,
       "available": [
@@ -386,7 +386,7 @@
           "inStock": 1
         }
       ],
-      "longDescription": "Political Campaign Sweat Shorts in black and white curly fleece",
+      "longDescription": "Couture Dress and white curly fleece",
       "shortDescription": [
         "Curly fleece",
         "Unifit",
@@ -405,7 +405,7 @@
     },
     {
       "id": "a1",
-      "name": "MEN'S SPORTY B HIGHNECK ATHLETIC LONG SLEEVE TOP IN BLACK",
+      "name": " SPORTY B HIGHNECK ATHLETIC LONG SLEEVE TOP IN BLACK",
       "price": 1050,
       "images": 6,
       "available": [
@@ -414,25 +414,25 @@
           "inStock": 3
         }
       ],
-      "longDescription": "Sporty B Highneck Athletic Long Sleeve Top in black energy accumulator® is from the look 24 of the Balenciaga’s Winter 22 Collection, 360° Show.",
+      "longDescription": "Sporty B Highneck Athletic Long Sleeve Top in black energy accumulator® is from the look 24 of the Elena Luka’s Winter 22 Collection, 360° Show.",
       "shortDescription": [
         "Energy Accumulator® fabric",
         "Bodycon fit",
         "High neck",
         "Long sleeves",
         "Sporty B logo jacquard at neck",
-        "Balenciaga logo jacquard at sleeves",
+        "Elena Luka logo jacquard at sleeves",
         "Made in Italy",
         "Dry cleaning",
         "Model is 189 cm / 6'2'' wearing a size Ss",
-        "This Balenciaga product is made using X-BIONIC® technology, which allows for the highest levels of performance in all weather conditions and states of motion by using thermal control."
+        "This Elena Luka product is made using X-BIONIC® technology, which allows for the highest levels of performance in all weather conditions and states of motion by using thermal control."
       ],
       "material": "95% polyamide, 5% elastane",
       "sustainability": "Carbon footprint: we work to continually reduce the environmental footprint of our products. The remaining carbon emissions associated with all activities in this product’s life cycle are carefully calculated, and we commit to invest funds into carbon removal projects that protect and restore natural ecosystems to tackle climate change."
     },
     {
       "id": "a2",
-      "name": "MEN'S 3B SPORTS ICON SLEEVELESS CREWNECK TOP IN BLACK",
+      "name": " 3B SPORTS ICON SLEEVELESS CREWNECK TOP IN BLACK",
       "price": 550,
       "images": 2,
       "available": [
@@ -457,7 +457,7 @@
     },
     {
       "id": "b1",
-      "name": "MEN'S ARMY SMALL MULTICARRY BACKPACK IN BLACK",
+      "name": "COUTURE DRESS SMALL MULTICARRY ",
       "price": 1150,
       "images": 5,
       "available": [
@@ -466,7 +466,7 @@
           "inStock": 3
         }
       ],
-      "longDescription": "Army Small Multicarry Backpack in black recycled nylon",
+      "longDescription": "Army Small Multicarry  recycled nylon",
       "shortDescription": [
         "Dimensions : L6,3 x H14,1 x W9,4 inch",
         "Recycled nylon",
@@ -475,7 +475,7 @@
         "Two hooks",
         "Top double-ended zip-fastening closure",
         "Adjustable shoulder straps",
-        "Balenciaga logo patch on front",
+        "Elena Luka logo patch on front",
         "1 inner zipped",
         "Cotton canvas lining",
         "Made in Italy",
@@ -486,7 +486,7 @@
     },
     {
       "id": "b2",
-      "name": "MEN'S ARMY SPACE SMALL BACKPACK IN BLACK",
+      "name": "COUTURE DRESS SPACE SMALL ",
       "price": 1190,
       "images": 4,
       "available": [
@@ -495,14 +495,14 @@
           "inStock": 3
         }
       ],
-      "longDescription": "Army Space Small Backpack in black recycled casual nylon",
+      "longDescription": "Army Space Small  recycled casual nylon",
       "shortDescription": [
         "Dimensions : L9,4 x H16,3 x W10,2 inch",
         "Recycled casual nylon",
         "Backpack",
         "One top handle",
         "Adjustable shoulder straps",
-        "Balenciaga logo patch at front",
+        "Elena Luka logo patch at front",
         "MOLLE loop system and hooks",
         "Front zipped pocket",
         "2 buckles closure on each side",
@@ -520,7 +520,7 @@
     },
     {
       "id": "b3",
-      "name": "MEN'S ARMY SMALL BACKPACK IN BLACK",
+      "name": "COUTURE DRESS SMALL ",
       "price": 1550,
       "images": 5,
       "available": [
@@ -529,14 +529,14 @@
           "inStock": 2
         }
       ],
-      "longDescription": "Army Small Backpack in black Arena lambskin",
+      "longDescription": "Army Small  Arena lambskin",
       "shortDescription": [
         "Dimensions : L9,4 x H16,3 x W10,2 inch",
         "Arena lambskin",
         "Backpack",
         "One top handle",
         "Adjustable shoulder straps",
-        "Balenciaga logo patch at front",
+        "Elena Luka logo patch at front",
         "MOLLE loop system and hooks",
         "Front zipped pocket",
         "2 buckles closure on each side",
@@ -550,7 +550,7 @@
         "Wipe with a soft cloth"
       ],
       "material": "90% lambskin, 5% polyester, 5% polyamide",
-      "sustainability": "Details: In this line, at least 100% of the leather is tanned using metal-free methods. A metal-free tanning method is more respectful of the environment as it results in less water, air, and soil pollutants. Our target is that 100% of the leather used at Balenciaga will be metal-free in 2025."
+      "sustainability": "Details: In this line, at least 100% of the leather is tanned using metal-free methods. A metal-free tanning method is more respectful of the environment as it results in less water, air, and soil pollutants. Our target is that 100% of the leather used at Elena Luka will be metal-free in 2025."
     }
   ],
   "cart": [
